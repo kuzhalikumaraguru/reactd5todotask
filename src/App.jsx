@@ -1,6 +1,6 @@
 import React from 'react'
-import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
-import ToDo from './components/todo';
+import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
+import ToDo from './components/ToDo';
 import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   return (
